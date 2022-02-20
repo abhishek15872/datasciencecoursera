@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is a public repository for coursers project.
+This is a public repository for coursera project.
